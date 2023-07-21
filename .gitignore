@@ -1,0 +1,8 @@
+kaggle/
+kaggle/*
+path
+path/*
+validset_mel_label/
+validset_mel_label/*
+weights/
+weights/*
